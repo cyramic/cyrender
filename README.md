@@ -23,9 +23,9 @@ Make sure you copy the .env.sample file and replace the values inside with your 
 
 ### Tags
 You can use tags to change the formatting
-* `[MT]` - Denotes a Main Title, or book title. Uses the Header1 style in word
+* `[MT]` - Denotes a Main Title, or book title. Uses the Title style in word
 * `[By]` - Denotes a by line or an author name. Usually placed below the title
-* `[T]` - Denotes a chapter title
+* `[T]` - Denotes a chapter title, uses Header1 style in word
 * `[S]` - Denotes a chapter subtitle
 * `###` - (on a separate line) - Denotes a section break
 
